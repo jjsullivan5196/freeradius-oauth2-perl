@@ -1,5 +1,5 @@
 perl oauth2-perl {
-	file = /opt/freeradius-oauth2-perl/main.pm
+	filename = /opt/freeradius-oauth2-perl/main.pm
 }
 
 cache oauth2-perl-cache {
